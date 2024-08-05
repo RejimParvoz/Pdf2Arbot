@@ -187,4 +187,36 @@
         "msg_end_file_one": "🎭 | फ़ाइल का नाम बदलने के लिए, फ़ाइल का उत्तर दें और इच्छित नाम लिखें।\r\n\r\nसाझा करने और सुझावों के लिए, कृपया समूह में शामिल हों:  \r\n📚 @Pdf2Ar  \r\n\r\nयदि अनुवाद का पृष्ठ खाली है, तो इस वीडियो का पालन करें:  \r\n📹 [https:\/\/youtu.be\/orYyUsbtbRA]\r\n\r\nअनुवाद की अवधि: {} सेकंड",
         "msg_end_file_two": "📚 केवल अनुवादित फ़ाइल\r\n\r\n📹 प्रिंटिंग के लिए उपयोगी"
     }
+    "uz": {
+    "/start": "📎 Faylingizni yuboring [PDF]\r\n\r\nTilni sozlash uchun 🌐 yuboring\r\n/language\r\n\r\nSozlamalarni o'zgartirish uchun ⚙️ yuboring\r\n/settings\r\n\r\nMa'lumot uchun, yuboring ℹ️\r\n/account",
+    "/account": "👤 Foydalanuvchi:\r\n🎖️ Ballar: {}\r\n⏳ Muddati tugash sanasi: {}\r\n\r\n📊 Tarjima qilingan fayllar: {}",
+    "/settings": "Bot sozlamalarini tanlang",
+    "size": "Shrift o'lchami",
+    "lines_options": "Tarjima joylashuvi",
+    "colors": "Shrift rangi",
+    "sort": "Tarjima turi",
+    "from": "Qaysi tildan tarjima qilinsin",
+    "to": "Qaysi tilga tarjima qilinsin",
+    "Exit": "Chiqish",
+    "buy": "📢 Premium xizmatimizga hoziroq obuna bo'ling!\r\n💵 Oyiga $5\r\n💰 3 oy uchun $10\r\n\r\nEksklyuziv imkoniyatlarga ega bo'ling va mukammal tajribadan bahramand bo'ling! Bugun obuna bo'ling! 🚀\r\n\r\n@Fg6pp",
+    "show_options_old": "📋 Oldingi sozlamalaringiz:\r\n🌐 Faylni qaysi tildan tarjima qilish: {}\r\n🔤 Shrft o'lchami: {}\r\n🎨 Shrft rangi: {}\r\n📝 Tarjima turi: {}\r\n📄 Qog'oz o'lchami: {}\r\n📌 Sahifada tarjima joylashuvi: {}\r\n❓ Ularni ishlatishni xohlaysizmi?",
+    "yes": "Ha",
+    "no": "Yo'q",
+    "line_up": "Tarjima yuqorida",
+    "line_down": "Tarjima pastda",
+    "Back": "Ortga",
+    ".": "jumla_boyicha",
+    "#000000": "Qora",
+    "#e502fc": "Binafsha",
+    "#fc0287": "Pushti",
+    "#0046ff": "Ko'k",
+    "wwww": "To'liq_tarjima",
+    "Translate_line_by_line": "Qator_qator_tarjima_qilmoq",
+    "Complete_translation": "To'liq_tarjima",
+    "English": "Inglizcha",
+    "Persian": "Forscha",
+    "info_opration": "🔄 Tarjima jarayoni 🔄\r\n📚 Tarjima qilingan sahifalar soni: {}\r\n📓 Tarjima qilinmagan sahifalar soni: {}\r\n📊 Tarjima foizi: \r\n({}%)\r\n📄 Jami sahifalar: {}\r\n⏳ Tarjima tugallanish vaqti: \r\n{}\r\n💬 Aloqa: @Fg6pp ✅\r\n📚 @Pdf2Ar",
+    "msg_end_file_one": "🎭 | Fayl nomini o'zgartirish uchun, faylga javoban istalgan nomni yozing.\r\n\r\nUlashish va takliflar uchun guruhga qo'shiling:\r\n📚 @Pdf2Ar\r\n\r\nAgar tarjima sahifasi bo'sh bo'lsa, ushbu videoni kuzatib boring:\r\n📹 [https://youtu.be/orYyUsbtbRA]\r\n\r\nTarjima davomiyligi: {} soniya",
+    "msg_end_file_two": "📚 Faqat tarjima qilingan fayl\r\n\r\n📹 Chop etish uchun foydali"
+}
 }
